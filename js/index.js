@@ -1,3 +1,3 @@
-import { name } from './module.js';
+import { initialize } from "./first_competitor.js";
 
-console.log(name);
+initialize();
