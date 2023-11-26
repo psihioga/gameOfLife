@@ -1,3 +1,3 @@
 import { initialize } from "./first_competitor.js";
 
-initialize();
+initialize(); //20-30 fps on start 
